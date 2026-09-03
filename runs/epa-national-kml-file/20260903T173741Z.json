@@ -1,0 +1,11 @@
+{
+  "started_at": "2026-09-03T17:37:41Z",
+  "finished_at": "2026-09-03T17:37:49Z",
+  "outcome": "mirror_error",
+  "fingerprint_before": null,
+  "fingerprint_after": "\"53740d-658772f8fb999\"",
+  "log": "[2026-09-03T17:37:42Z] Change detected: None \u2192 '\"53740d-658772f8fb999\"'\n[2026-09-03T17:37:49Z] Downloaded 1 file(s)\n[2026-09-03T17:37:49Z] IsDerivedFrom: https://ordsext.epa.gov/FLA/www3/national_frs.kmz\n[2026-09-03T17:37:49Z] Mock DOI: 10.5072/varve.epa-national-kml-file.1788457069\n[2026-09-03T17:37:49Z] ERROR mirror source-coop: Traceback (most recent call last):\n  File \"/home/runner/.local/share/uv/tools/varve/lib/python3.12/site-packages/varve/monitor.py\", line 169, in run_dataset\n    mirror = get_mirror(destination, credentials)\n             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/runner/.local/share/uv/tools/varve/lib/python3.12/site-packages/varve/mirrors/__init__.py\", line 12, in get_mirror\n    return SourceCoopMirror(credentials)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/runner/.local/share/uv/tools/varve/lib/python3.12/site-packages/varve/mirrors/source_coop.py\", line 57, in __init__\n    \"aws_access_key_id\": credentials[\"aws_access_key_id\"],\n                         ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^\nKeyError: 'aws_access_key_id'\n",
+  "mirror_outcomes": {
+    "source-coop": "mirror_error"
+  }
+}
