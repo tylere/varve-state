@@ -1,0 +1,8 @@
+{
+  "started_at": "2026-09-03T12:18:22Z",
+  "finished_at": "2026-09-03T12:18:27Z",
+  "outcome": "mirror_error",
+  "fingerprint_before": null,
+  "fingerprint_after": "\"53740d-658772f8fb999\"",
+  "log": "[2026-09-03T12:18:23Z] Change detected: None \u2192 '\"53740d-658772f8fb999\"'\n[2026-09-03T12:18:27Z] Downloaded 1 file(s)\n[2026-09-03T12:18:27Z] SKIP source-coop: env var 'VARVE_SC_CREDENTIALS' not set or invalid JSON: Expecting value: line 1 column 1 (char 0)"
+}
