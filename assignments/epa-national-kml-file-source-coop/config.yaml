@@ -1,0 +1,4 @@
+dataset_slug: epa-national-kml-file
+destination_slug: source-coop
+check_interval_hours: 6
+enabled: true
