@@ -1,0 +1,4 @@
+name: source.coop
+type: source_coop
+credentials_env: VARVE_SC_CREDENTIALS
+enabled: true
