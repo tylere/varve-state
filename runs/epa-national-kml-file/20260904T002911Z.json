@@ -1,0 +1,9 @@
+{
+  "started_at": "2026-09-04T00:29:11Z",
+  "finished_at": "2026-09-04T00:29:12Z",
+  "outcome": "detector_error",
+  "fingerprint_before": null,
+  "fingerprint_after": null,
+  "log": "[2026-09-04T00:29:12Z] ERROR detector: Traceback (most recent call last):\n  File \"/home/runner/.local/share/uv/tools/varve/lib/python3.12/site-packages/varve/monitor.py\", line 69, in run_dataset\n    fingerprint_after = detector.compute_fingerprint()\n                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/runner/.local/share/uv/tools/varve/lib/python3.12/site-packages/varve/detectors/url.py\", line 55, in compute_fingerprint\n    r.raise_for_status()\n  File \"/home/runner/.local/share/uv/tools/varve/lib/python3.12/site-packages/httpx/_models.py\", line 829, in raise_for_status\n    raise HTTPStatusError(message, request=request, response=self)\nhttpx.HTTPStatusError: Server error '502 Proxy Error' for url 'https://ordsext.epa.gov/FLA/www3/national_frs.kmz'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/502\n",
+  "mirror_outcomes": {}
+}
