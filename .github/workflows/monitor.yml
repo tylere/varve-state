@@ -18,7 +18,7 @@ jobs:
 
       - uses: astral-sh/setup-uv@v4
 
-      - run: uv tool install "varve @ git+https://github.com/tylere/varve.git@feat/source-coop-service-accounts"  # TEMP: back to @main once tylere/varve#6 merges
+      - run: uv tool install "varve @ git+https://github.com/tylere/varve.git@main"
 
       - name: Configure git
         run: |
