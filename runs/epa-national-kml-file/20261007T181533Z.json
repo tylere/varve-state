@@ -1,0 +1,9 @@
+{
+  "started_at": "2026-10-07T18:15:33Z",
+  "finished_at": "2026-10-07T18:15:34Z",
+  "outcome": "unchanged",
+  "fingerprint_before": "\"5391db-65afd3ed393cf\"",
+  "fingerprint_after": "\"5391db-65afd4b4eb2c8\"",
+  "log": "[2026-10-07T18:15:34Z] Fingerprint '\"5391db-65afd4b4eb2c8\"' previously served archived content \u2014 no action needed",
+  "mirror_outcomes": {}
+}
