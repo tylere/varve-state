@@ -1,0 +1,14 @@
+name: Sentinel-2 L2A 13TDE 2024-07-31
+source_url: https://earth-search.aws.element84.com/v1/collections/sentinel-2-l2a/items/S2A_13TDE_20240731_0_L2A
+detector_type: stac
+detector_config:
+  # Small assets only (~1.5 MB); the full item is ~455 MB and its *-jp2 assets use s3:// hrefs
+  asset_keys:
+  - thumbnail
+  - scl
+  - aot
+  - granule_metadata
+  - tileinfo_metadata
+enabled: true
+notes: Test dataset for the STAC detector and multi-file archives. Historical item; not expected to change.
+created_at: '2026-10-13T00:00:00Z'

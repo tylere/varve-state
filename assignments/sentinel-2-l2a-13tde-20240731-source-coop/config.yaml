@@ -1,0 +1,4 @@
+dataset_slug: sentinel-2-l2a-13tde-20240731
+destination_slug: source-coop
+check_interval_hours: 24
+enabled: true
