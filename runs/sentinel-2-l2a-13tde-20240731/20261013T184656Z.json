@@ -1,0 +1,11 @@
+{
+  "started_at": "2026-10-13T18:46:56Z",
+  "finished_at": "2026-10-13T18:47:09Z",
+  "outcome": "mirrored",
+  "fingerprint_before": null,
+  "fingerprint_after": "sha256:f62399f45cd79d623949ea4f15b18586a1f7c710cc58f0ffb4b970e61859d3c9",
+  "log": "[2026-10-13T18:46:58Z] Change detected: None \u2192 'sha256:f62399f45cd79d623949ea4f15b18586a1f7c710cc58f0ffb4b970e61859d3c9'\n[2026-10-13T18:47:00Z] Downloaded 5 file(s)\n[2026-10-13T18:47:00Z] IsDerivedFrom: https://earth-search.aws.element84.com/v1/collections/sentinel-2-l2a/items/S2A_13TDE_20240731_0_L2A\n[2026-10-13T18:47:00Z] Mock DOI: 10.5072/varve.sentinel-2-l2a-13tde-20240731.1791917220\n[2026-10-13T18:47:09Z] Mirrored to source-coop: https://data.source.coop/tyler/varve-data-mirror-test/20261013T184700Z/",
+  "mirror_outcomes": {
+    "source-coop": "mirrored"
+  }
+}
