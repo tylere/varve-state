@@ -1,0 +1,17 @@
+{
+  "destination_slug": "source-coop",
+  "archived_at": "2026-10-13T00:36:09Z",
+  "remote_identifier": "https://data.source.coop/tyler/varve-data-mirror-test/20261013T003609Z/",
+  "mock_doi": "10.5072/varve.epa-national-kml-file.1791851769",
+  "source_metadata": {
+    "urls": [
+      {
+        "url": "https://ordsext.epa.gov/FLA/www3/national_frs.kmz",
+        "etag": "\"533bb9-65da5af59c2a4\"",
+        "last_modified": "Mon, 12 Oct 2026 14:40:53 GMT",
+        "content_length": "5454777",
+        "status": 200
+      }
+    ]
+  }
+}
