@@ -1,7 +1,7 @@
 {
   "destination_slug": "source-coop",
   "archived_at": "2026-10-13T18:47:00Z",
-  "remote_identifier": "https://data.source.coop/tyler/varve-data-mirror-test/20261013T184700Z/",
+  "remote_identifier": "https://data.source.coop/tyler/varve-data-mirror-test/sentinel-2-l2a-13tde-20240731/2026-10-13T18-47-00Z/",
   "mock_doi": "10.5072/varve.sentinel-2-l2a-13tde-20240731.1791917220",
   "source_metadata": {
     "type": "Feature",

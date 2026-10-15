@@ -1,7 +1,7 @@
 {
   "destination_slug": "source-coop",
   "archived_at": "2026-10-13T00:36:09Z",
-  "remote_identifier": "https://data.source.coop/tyler/varve-data-mirror-test/20261013T003609Z/",
+  "remote_identifier": "https://data.source.coop/tyler/varve-data-mirror-test/epa-national-kml-file/2026-10-13T00-36-09Z/",
   "mock_doi": "10.5072/varve.epa-national-kml-file.1791851769",
   "source_metadata": {
     "urls": [

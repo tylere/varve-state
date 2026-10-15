@@ -43,9 +43,8 @@
 
 | Archived At | Destination | Location |
 |-------------|-------------|----------|
-| 2026-10-13 00:36 UTC | source-coop | [link](https://source.coop/tyler/varve-data-mirror-test/20261013T003609Z) |
-| 2026-10-06 22:28 UTC | source-coop | [link](https://source.coop/tyler/varve-data-mirror-test/20261006T222838Z) |
-| 2026-10-06 22:07 UTC | source-coop | [link](https://source.coop/tyler/varve-data-mirror-test/20261006T220753Z) |
+| 2026-10-13 00:36 UTC | source-coop | [link](https://source.coop/tyler/varve-data-mirror-test/epa-national-kml-file/2026-10-13T00-36-09Z) |
+| 2026-10-06 22:07 UTC | source-coop | [link](https://source.coop/tyler/varve-data-mirror-test/epa-national-kml-file/2026-10-06T22-07-53Z) |
 
 ---
 
@@ -76,6 +75,6 @@
 
 | Archived At | Destination | Location |
 |-------------|-------------|----------|
-| 2026-10-13 18:47 UTC | source-coop | [link](https://source.coop/tyler/varve-data-mirror-test/20261013T184700Z) |
+| 2026-10-13 18:47 UTC | source-coop | [link](https://source.coop/tyler/varve-data-mirror-test/sentinel-2-l2a-13tde-20240731/2026-10-13T18-47-00Z) |
 
 ---
