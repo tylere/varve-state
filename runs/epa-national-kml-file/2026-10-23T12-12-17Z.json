@@ -1,0 +1,9 @@
+{
+  "started_at": "2026-10-23T12:12:17Z",
+  "finished_at": "2026-10-23T12:12:17Z",
+  "outcome": "unchanged",
+  "fingerprint_before": "\"533bb9-65da5af59c2a4\"",
+  "fingerprint_after": "\"533bb9-65da5b5a267e0\"",
+  "log": "[2026-10-23T12:12:17Z] Fingerprint '\"533bb9-65da5b5a267e0\"' previously served archived content \u2014 no action needed",
+  "mirror_outcomes": {}
+}
