@@ -1,0 +1,9 @@
+{
+  "started_at": "2026-10-25T12:11:18Z",
+  "finished_at": "2026-10-25T12:11:20Z",
+  "outcome": "unchanged",
+  "fingerprint_before": "sha256:f62399f45cd79d623949ea4f15b18586a1f7c710cc58f0ffb4b970e61859d3c9",
+  "fingerprint_after": "sha256:f62399f45cd79d623949ea4f15b18586a1f7c710cc58f0ffb4b970e61859d3c9",
+  "log": "[2026-10-25T12:11:20Z] Fingerprint unchanged \u2014 no action needed",
+  "mirror_outcomes": {}
+}
