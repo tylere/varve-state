@@ -1,12 +1,12 @@
 # Varve Dataset Status
 
-*Last updated: 2026-10-29 18:09 UTC*
+*Last updated: 2026-10-30 00:17 UTC*
 
 ## Summary
 
 | Dataset | Enabled | Last Scanned | Last Archived | Versions |
 |---------|---------|--------------|---------------|----------|
-| [EPA National KML File](#epa-national-kml-file) | ✓ | 2026-10-29 12:10 UTC | 2026-10-13 00:36 UTC | 2 |
+| [EPA National KML File](#epa-national-kml-file) | ✓ | 2026-10-30 00:17 UTC | 2026-10-13 00:36 UTC | 2 |
 | [Sentinel-2 L2A 13TDE 2024-07-31](#sentinel-2-l2a-13tde-20240731) | ✓ | 2026-10-29 18:09 UTC | 2026-10-13 18:47 UTC | 1 |
 
 ---
@@ -21,13 +21,14 @@
 
 **State**
 
-- Last scanned: 2026-10-29 12:10 UTC
+- Last scanned: 2026-10-30 00:17 UTC
 - Archived versions: 2
 
 **Recent Runs** (last 10)
 
 | Started | Outcome |
 |---------|---------|
+| 2026-10-30 00:17 UTC | unchanged |
 | 2026-10-29 12:10 UTC | unchanged |
 | 2026-10-29 00:17 UTC | unchanged |
 | 2026-10-28 12:09 UTC | unchanged |
@@ -37,7 +38,6 @@
 | 2026-10-26 13:36 UTC | unchanged |
 | 2026-10-26 00:22 UTC | unchanged |
 | 2026-10-25 12:11 UTC | unchanged |
-| 2026-10-25 00:24 UTC | unchanged |
 
 **Archived Copies**
 
