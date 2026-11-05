@@ -1,12 +1,12 @@
 # Varve Dataset Status
 
-*Last updated: 2026-11-04 12:08 UTC*
+*Last updated: 2026-11-05 00:15 UTC*
 
 ## Summary
 
 | Dataset | Enabled | Last Scanned | Last Archived | Versions |
 |---------|---------|--------------|---------------|----------|
-| [EPA National KML File](#epa-national-kml-file) | ✓ | 2026-11-04 12:08 UTC | 2026-10-13 00:36 UTC | 2 |
+| [EPA National KML File](#epa-national-kml-file) | ✓ | 2026-11-05 00:15 UTC | 2026-11-05 00:15 UTC | 3 |
 | [Sentinel-2 L2A 13TDE 2024-07-31](#sentinel-2-l2a-13tde-20240731) | ✓ | 2026-11-04 12:08 UTC | 2026-10-13 18:47 UTC | 1 |
 
 ---
@@ -21,13 +21,14 @@
 
 **State**
 
-- Last scanned: 2026-11-04 12:08 UTC
-- Archived versions: 2
+- Last scanned: 2026-11-05 00:15 UTC
+- Archived versions: 3
 
 **Recent Runs** (last 10)
 
 | Started | Outcome |
 |---------|---------|
+| 2026-11-05 00:15 UTC | mirrored ✓ |
 | 2026-11-04 12:08 UTC | unchanged |
 | 2026-11-04 00:15 UTC | unchanged |
 | 2026-11-03 12:08 UTC | unchanged |
@@ -37,12 +38,12 @@
 | 2026-11-01 12:07 UTC | unchanged |
 | 2026-11-01 00:17 UTC | unchanged |
 | 2026-10-31 12:08 UTC | unchanged |
-| 2026-10-31 00:15 UTC | unchanged |
 
 **Archived Copies**
 
 | Archived At | Destination | Location |
 |-------------|-------------|----------|
+| 2026-11-05 00:15 UTC | source-coop | [link](https://source.coop/tyler/varve-data-mirror-test/epa-national-kml-file/2026-11-05T00-15-51Z) |
 | 2026-10-13 00:36 UTC | source-coop | [link](https://source.coop/tyler/varve-data-mirror-test/epa-national-kml-file/2026-10-13T00-36-09Z) |
 | 2026-10-06 22:07 UTC | source-coop | [link](https://source.coop/tyler/varve-data-mirror-test/epa-national-kml-file/2026-10-06T22-07-53Z) |
 

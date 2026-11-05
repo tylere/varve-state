@@ -1,0 +1,11 @@
+{
+  "started_at": "2026-11-05T00:15:49Z",
+  "finished_at": "2026-11-05T00:15:53Z",
+  "outcome": "mirrored",
+  "fingerprint_before": "\"533bb9-65da5af59c2a4\"",
+  "fingerprint_after": "\"53d357-65f79bd54f16d\"",
+  "log": "[2026-11-05T00:15:50Z] Change detected: '\"533bb9-65da5af59c2a4\"' \u2192 '\"53d357-65f79bd54f16d\"'\n[2026-11-05T00:15:51Z] Downloaded 1 file(s)\n[2026-11-05T00:15:51Z] IsDerivedFrom: https://ordsext.epa.gov/FLA/www3/national_frs.kmz\n[2026-11-05T00:15:51Z] Mock DOI: 10.5072/varve.epa-national-kml-file.1793837751\n[2026-11-05T00:15:53Z] Mirrored to source-coop: https://data.source.coop/tyler/varve-data-mirror-test/epa-national-kml-file/2026-11-05T00-15-51Z/",
+  "mirror_outcomes": {
+    "source-coop": "mirrored"
+  }
+}
