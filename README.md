@@ -1,6 +1,6 @@
 # Varve Dataset Status
 
-*Last updated: 2026-11-20 00:13 UTC*
+*Last updated: 2026-11-20 12:08 UTC*
 
 ## Summary
 
@@ -28,6 +28,7 @@
 
 | Started | Outcome |
 |---------|---------|
+| 2026-11-20 12:08 UTC | detector error ✗ |
 | 2026-11-20 00:13 UTC | unchanged |
 | 2026-11-19 12:08 UTC | unchanged |
 | 2026-11-19 00:15 UTC | unchanged |
@@ -37,7 +38,6 @@
 | 2026-11-17 00:15 UTC | unchanged |
 | 2026-11-16 12:12 UTC | unchanged |
 | 2026-11-16 00:18 UTC | unchanged |
-| 2026-11-15 12:07 UTC | unchanged |
 
 **Archived Copies**
 
