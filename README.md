@@ -7,7 +7,7 @@
 | Dataset | Enabled | Last Scanned | Last Archived | Versions |
 |---------|---------|--------------|---------------|----------|
 | [EPA National KML File](#epa-national-kml-file) | ✓ | 2026-11-27 12:09 UTC | 2026-11-05 00:15 UTC | 3 |
-| [Sentinel-2 L2A 13TDE 2024-07-31](#sentinel-2-l2a-13tde-20240731) | ✓ | 2026-11-26 12:08 UTC | 2026-10-13 18:47 UTC | 1 |
+| [Sentinel-2 L2A 13TDE 2024-07-31](#sentinel-2-l2a-13tde-20240731) | ✓ | 2026-11-27 12:09 UTC | 2026-10-13 18:47 UTC | 1 |
 
 ---
 
@@ -60,13 +60,14 @@
 
 **State**
 
-- Last scanned: 2026-11-26 12:08 UTC
+- Last scanned: 2026-11-27 12:09 UTC
 - Archived versions: 1
 
 **Recent Runs** (last 10)
 
 | Started | Outcome |
 |---------|---------|
+| 2026-11-27 12:09 UTC | unchanged |
 | 2026-11-26 12:08 UTC | unchanged |
 | 2026-11-25 06:10 UTC | unchanged |
 | 2026-11-24 06:10 UTC | unchanged |
@@ -76,7 +77,6 @@
 | 2026-11-19 18:07 UTC | unchanged |
 | 2026-11-18 12:08 UTC | unchanged |
 | 2026-11-17 06:10 UTC | unchanged |
-| 2026-11-16 00:18 UTC | unchanged |
 
 **Archived Copies**
 
